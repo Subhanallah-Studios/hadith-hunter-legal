@@ -68,9 +68,9 @@ Your continued use of the App after revised Terms become effective constitutes a
 13. Privacy
 Your use of the App is also subject to our Privacy Policy, which describes how information is collected, used, and handled in connection with the App.
 The Privacy Policy is available at:
-https://github.com/Subhanallah-Studios/hadith-hunter-legal/blob/main/privacy-policy.md 
+https://subhanallah-studios.github.io/hadith-hunter-legal/privacy-policy
 
-14. Contact Us
+15. Contact Us
 If you have questions about these Terms, you may contact us at:
 Subhanallah Studios
 Email: support@subhanallahstudios.com
